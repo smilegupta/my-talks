@@ -1,9 +1,13 @@
 # Smile Gupta's Tech Public Presentations
 
 # 2022
-* March 08, 2022 Say Hello to Open Source - [Smile Gupta](https://www.canva.com/design/DAE6W9HGOoE/EmlLEbjUk3bJQDqzehr_0A/edit?utm_content=DAE6W9HGOoE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-* March 06, 2022 Acing the JavaScript Interview - [Smile Gupta](https://docs.google.com/presentation/d/17NaHcRlCRMVGg5Ri4PPPN_NCMydMUQ5d_T03QyrweEs/edit?usp=sharing)
-* February 06, 2022 [Building a career in frontend development](https://docs.google.com/presentation/d/1e8naMPhJghbhDdE2VDBsk2JhQ4Etb1-amAPH2aY0kJk/edit?usp=sharing) - [Smile Gupta](https://twitter.com/smileguptaaa)
+* September 22, 2022 - [React India 4hr workshop -> Animations Made easy in React](https://docs.google.com/presentation/d/1cDCc9Vzs5rvc36jLX4jg7D-wLCFO11BIdoadNJML2Fs/edit#slide=id.g155fbd4ebe6_7_1338)
+* September 10, 2022 - [ShowcaseHQ Meetup -> Building a career in frontend development](https://docs.google.com/presentation/d/1MivZyOAaM7biqgLo1M-K-_OUmUUc3b6Q5ivRFFOgML8/edit#slide=id.g1324795b928_0_0)
+* August 07, 2022 - [Hack the mountains Session -> Diving into the vast area of Frontend Web Development
+](https://www.youtube.com/watch?v=rfp5I_DjiJQ&t=14s)
+* March 08, 2022 [Konfhub Womens Day Evnet -> Say Hello to Open Source](https://www.canva.com/design/DAE6W9HGOoE/EmlLEbjUk3bJQDqzehr_0A/edit?utm_content=DAE6W9HGOoE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+* March 06, 2022 [Acing the JavaScript Interview](https://docs.google.com/presentation/d/17NaHcRlCRMVGg5Ri4PPPN_NCMydMUQ5d_T03QyrweEs/edit?usp=sharing)
+* February 06, 2022 [Building a career in frontend development](https://docs.google.com/presentation/d/1e8naMPhJghbhDdE2VDBsk2JhQ4Etb1-amAPH2aY0kJk/edit?usp=sharing)
 
 ## 2021
 * Nov 20, 2021 3 Mistakes of My Life - [Smile Gupta](https://twitter.com/smileguptaaa)
