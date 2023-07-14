@@ -1,5 +1,12 @@
 # Smile Gupta's Tech Public Presentations
 
+# 2023
+* July 01, 2023 - [React Nexus Pre Event -> Unleashing the Power of GitHub Actions in Your React Workflows: From Dancing Robots to Pristine PRs](https://docs.google.com/presentation/d/1ey9LueiL6IP2oaxiqUybxzTkGwnPsedzw9qsbjuch8A/edit#slide=id.g55b7410430_0_0)
+* May 13, 2023 - [Pesto Tech Meetup -> Transform your react web design: 
+Animations Secrets Revealed 
+](https://docs.google.com/presentation/d/19bAn9F3f9XOXZyr_Ps-yeJr55KROwOmfS6mX3W40cWI/edit#slide=id.g155fbd4ebe6_0_5440)
+
+
 # 2022
 * September 22, 2022 - [React India 4hr workshop -> Animations Made easy in React](https://docs.google.com/presentation/d/1cDCc9Vzs5rvc36jLX4jg7D-wLCFO11BIdoadNJML2Fs/edit#slide=id.g155fbd4ebe6_7_1338)
 * September 10, 2022 - [ShowcaseHQ Meetup -> Building a career in frontend development](https://docs.google.com/presentation/d/1MivZyOAaM7biqgLo1M-K-_OUmUUc3b6Q5ivRFFOgML8/edit#slide=id.g1324795b928_0_0)
