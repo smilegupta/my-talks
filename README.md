@@ -1,6 +1,10 @@
 # Smile Gupta's Tech Public Presentations
 
+# 2024
+30th March, 2024 - Exploring Frontend Communication Techniques: A Hands-On Workshop
+
 # 2023
+* September 16, 2023 - [Bridging the Gap: A Metaphorical Guide to Frontend Architectures](https://docs.google.com/presentation/d/10oJSBbZKhXD927Ce7-cEmyP5mRB2g20IZMzu8Riz5kI/edit)
 * July 01, 2023 - [React Nexus Pre Event -> Unleashing the Power of GitHub Actions in Your React Workflows: From Dancing Robots to Pristine PRs](https://docs.google.com/presentation/d/1ey9LueiL6IP2oaxiqUybxzTkGwnPsedzw9qsbjuch8A/edit#slide=id.g55b7410430_0_0)
 * May 13, 2023 - [Pesto Tech Meetup -> Transform your react web design: 
 Animations Secrets Revealed 
