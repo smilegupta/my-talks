@@ -1,6 +1,7 @@
 # Smile Gupta's Tech Public Presentations
 
 # 2024
+15th Oct, 2024 - [React India -> Color Theming Made Easy: The Razorpay's Checkout Story](https://www.reactindia.io/speakers/smile-gupta-2024)
 30th March, 2024 - Exploring Frontend Communication Techniques: A Hands-On Workshop
 
 # 2023
