@@ -1,8 +1,10 @@
 # Smile Gupta's Tech Public Presentations
 
 # 2024
+* 20th Oct, 2024 - [tiny talks by roc8 alums -> Color Theming Made Easy: The Razorpay’s Checkout Story](https://www.youtube.com/watch?v=L2dtmqcXsyM)
 * 15th Oct, 2024 - [React India -> Color Theming Made Easy: The Razorpay's Checkout Story](https://www.reactindia.io/speakers/smile-gupta-2024)
-* 30th March, 2024 - Exploring Frontend Communication Techniques: A Hands-On Workshop
+* 21st Sept, 2024 - [Workshop -> UI Concepts Unlocked: Build Once, Apply Anywhere](https://github.com/smilegupta/jslovers-w2)
+* 30th March, 2024 - [Workshop -> Exploring Frontend Communication Techniques: A Hands-On Workshop](https://github.com/smilegupta/jslovers-w1)
 
 # 2023
 * September 16, 2023 - [Bridging the Gap: A Metaphorical Guide to Frontend Architectures](https://docs.google.com/presentation/d/10oJSBbZKhXD927Ce7-cEmyP5mRB2g20IZMzu8Riz5kI/edit)
